@@ -1,0 +1,5 @@
+Vending machine validation
+
+1 Did the customer put the right amount of money in the machine P/F?
+2 Did the customer selcet the right item code in the machine. P/f
+3 Did the item dispensed? P/F
